@@ -11,6 +11,7 @@ public class Exam08 {
             }
                 System.out.println(num);
 
+
         }
         System.out.println("while 문 종료 ");
     }
