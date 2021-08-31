@@ -8,5 +8,15 @@ public class Round {
         System.out.println(shortPi); // double이니까 3.142
         double shortPi2 = Math.round(pi*1000)/1000;
         System.out.println(shortPi2); //double (int *int)
+
+        int x = 10;
+        int y = 8;
+
+        System.out.printf("%d를 %d로 나누면, %n",x,y);
+        System.out.printf("몫은 %d이고, 나머지는 %d입니다%n",x/y,x%y);
+
+        System.out.println(-10%8);
+        System.out.println(10%-8); //음수도 허용, 부호는 무시
+        System.out.println(-10%-8);
     }
 }
