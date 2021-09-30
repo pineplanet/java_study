@@ -22,5 +22,8 @@ public class Car {
         c1.speedUp(20);
 //        c1.speedDown(10);
         System.out.println(c1.speed);
+
+        Car c2 = new Car();
+        System.out.println(c2);
     }
 }
