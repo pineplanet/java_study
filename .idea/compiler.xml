@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <excludeFromCompile>
       <file url="file://$PROJECT_DIR$/src/ch04/Test.java" />
+      <file url="file://$PROJECT_DIR$/src/ch09/Test/Test2/Test2.java" />
     </excludeFromCompile>
   </component>
 </project>
