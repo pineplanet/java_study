@@ -1,10 +1,2 @@
 # Project exclude paths
-/out/
-/src/com/encore/
-/src/com/encore/java/
-/src/com/encore/java/Test.java
-/src/com/encore/java/Test1.java
-/src/com/encore/python/
-/src/com/encore/python/web/
-/src/com/encore/python/web/Professor.java
-/src/com/encore/python/Test33.java
+!/src/com/encore/java/api/
