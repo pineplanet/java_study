@@ -1,2 +1,3 @@
 # Project exclude paths
 !/src/com/encore/java/api/
+/src/com/encore/java/jdbc/
